@@ -8,7 +8,7 @@ This project performs basic exploratory data analysis (EDA) on the Titanic datas
 - A *histogram* displaying the survival distribution among passengers.
 
 ## Data Source
-- [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) (Kaggle)
+ Kaggle
 
 ## Libraries Used
 - Python
